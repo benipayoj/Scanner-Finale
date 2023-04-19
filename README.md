@@ -39,7 +39,7 @@ Put the QCU_Monitoring_System folder inside the "htdocs" folder
 Open your default browser then type the following:
 
 ```
-- type http://localhost/QCU_MONITORING_SYSTEM/Scanner/public_scanner/index1.php
+http://localhost/QCU_MONITORING_SYSTEM/Scanner/public_scanner/index1.php
 
 ```
 
